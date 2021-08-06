@@ -1,0 +1,61 @@
+{
+    "250730": {
+        "matchWinner": false,
+        "homeTeam": true,
+        "score": 1
+    },
+    "250731": {
+        "matchWinner": false,
+        "homeTeam": false,
+        "score": 2
+    },
+    "250734": {
+        "matchWinner": false,
+        "homeTeam": false,
+        "score": 3
+    },
+    "250735": {
+        "matchWinner": true,
+        "homeTeam": true,
+        "score": 6
+    },
+    "250738": {
+        "matchWinner": false,
+        "homeTeam": false,
+        "score": 2
+    },
+    "250739": {
+        "matchWinner": true,
+        "homeTeam": true,
+        "score": 2
+    },
+    "254893": {
+        "matchWinner": false,
+        "homeTeam": false,
+        "score": 3
+    },
+    "254894": {
+        "matchWinner": true,
+        "homeTeam": true,
+        "score": 7
+    },
+    "261009": {
+        "matchWinner": false,
+        "homeTeam": false,
+        "score": 0
+    },
+    "261010": {
+        "matchWinner": true,
+        "homeTeam": true,
+        "score": 4
+    },
+    "team": {
+        "name": "Manchester City FC",
+        "address": "SportCity Manchester M11 3FF",
+        "email": "mancity@mancity.com"
+    },
+    "homeMatches": 5,
+    "awayMatches": 5,
+    "seasonGoals": 30,
+    "averageGoals": "3.00"
+}
